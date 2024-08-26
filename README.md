@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-    int num1, num2, sum;
+    int num1=32, num2=23, sum;
     cout << "Enter the first number: ";
     cin >> num1;
     cout << "Enter the second number: ";
